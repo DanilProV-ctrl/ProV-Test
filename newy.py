@@ -1,4 +1,4 @@
-name = "George"
-age = 19
-print(name + ",please,lowly")
-print(name + ",you old!" + str(age) + ",shhhh")
+a = 1803238.50
+b = 2
+c = a / b
+print(c)
